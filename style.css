@@ -326,7 +326,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 80vh;
-    width: 90%;
+    width: 100%;
   }
 
   .home-text {
@@ -363,7 +363,7 @@ body {
   }
 
   .service_image {
-    width: 90%;
+    width: 100%;
     position: relative;
   }
 
@@ -383,15 +383,15 @@ body {
 
   .images {
     display: flex;
-    width: 95%;
+    width: 100%;
     flex-wrap: wrap;
   }
 
   .images img {
-    width: 47%;
+    width: 50%;
   }
 
   .footer {
-    width: 84.5%;
+    width: 100%;
   }
 }
